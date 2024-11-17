@@ -59,3 +59,9 @@ plt.xlabel('NPHI_T')
 plt.ylabel('RHOB_T')
 plt.colorbar(label='Cluster')
 plt.show()
+
+Resultados
+Se generan los gráficos a color que muestran los clusters encontrados en los datos analizados. Los puntos son coloreados según el cluster al que pertenecen. Lo que te permite observar cómo se agrupan las formaciones geológicas.
+
+Conclusión
+El algoritmo K-Means Clustering permite identificar patrones y similitudes en el conjunto de datos y con ello agrupar los datos más cercanos en un cluster.
